@@ -24,7 +24,9 @@ Running the program is pretty simple and most of what you need is already detail
 
 ## Possible Questions
 **Q.** What happens if I edited some data in the first excel sheet (the one you want analyzed) but already ran the program so the second excel sheet (the initially empty one) is already full?
+
 **A.** Since the program will not work if there is already content in the supposedly "empty" excel sheet, you have two options. You can create a new blank spreadsheet, name it, and replace the file location with this new one OR you can just ctrl + A (select all) and right click. There should be an option to clear content. Once you have cleared all content and saved/closed the sheet, the program should work.
 
 **Q.** Is this completed?
+
 **A.** No, this a rough draft of what I have planned. There are a few useful functions I want to add but am unsure as of now and am currently looking at how I would approach them. This is a usable program but is a WIP.
